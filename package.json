@@ -1,0 +1,11 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "*",
+    "async": "*",
+    "lodash": "*"
+  }
+}
