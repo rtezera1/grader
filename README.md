@@ -1,8 +1,7 @@
-## Interview Question 
-  ### Instruction
-    ```sh
-      npm install
-    ```
+### Instruction
+  ```sh
+  npm install
+  ```
 ### Grading 
   * A score in the top 20% of all scores is an A.
   * A score in the next 20% of scores is a B.
